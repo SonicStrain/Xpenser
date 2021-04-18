@@ -56,7 +56,7 @@ export const AddTransaction = () => {
           <label htmlFor="amount"
             >Amount 
           </label>
-          <input type="number" value={amount} onChange={(e) => setAmount((-1)*e.target.value)} placeholder="Amount" />
+          <input type="number" value={amount} onChange={(e) => setAmount(e.target.value)} placeholder="Amount" />
         </div>
         </th>
         </tr>
