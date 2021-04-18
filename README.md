@@ -40,3 +40,19 @@ Kathryn successfully used Anima to export a Figma UI design for the first time f
 Sagen has learned to use react and deployed the mini daily expense tracker app on Heroku. Kathryn is exceptional in making UI designs though I was not able to implement it fully in this short period.
 
 We want to spend more time combining the UI design with the functionality of the web app. We would also like to build Rain into a completely responsive web app.
+
+#### Why We Made Rain:
+We were inspired to make Rain because existing budgeting apps do not allow flexibility of budgeting or an alert when a budget is close to being exceeded. 
+
+#### What Rain Does: 
+Rain allows users to add multiple budgets per month and assign them to different purposes. Users can set an alert for each budget within a set time frame of their choice to prevent them from going over budget.
+
+#### How we created Rain:
+We initially brainstormed ideas via the discord chat, researched other budget apps, created wireframes, then a Figma Prototype. We experimented with using Anima to export the code for the interactive Figma prototype but did not have time to combine this with altered javascript code. Neither of us had experience adapting exported Figma code and developing it into a fully functional web app. Though we learned a lot trying, we decided to create a version of the app with a simplified UI.
+
+#### What We Learned: 
+We had a lot of fun and pushed ourselves and our skills to learn more. Soren learned about Figma and enjoyed the challenge of coding a web app. Kathryn successfully used Anima to export a Figma UI design for the first time for handoff to a dev, gained experience working with Soren, and enjoyed participating in her first hackathon!
+
+#### Whats Next For Rain:
+We want to spend more time combining the UI design with the functionality of the web app. We would also like to build Rain into a completely responsive web app.
+This is the project story so far.
