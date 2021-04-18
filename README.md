@@ -35,6 +35,8 @@ We initially brainstormed ideas via the discord chat, researched other budget ap
 
 We had a lot of fun and pushed ourselves and our skills to learn more.
 
-Kathryn successfully used Anima to export a Figma UI design for the first time for handoff to a dev, gained experience working with Soren, and enjoyed participating in her first hackathon!
+Kathryn successfully used Anima to export a Figma UI design for the first time for handoff to a dev, gained experience working with Sagen, and enjoyed participating in her first hackathon!
+
+Sagen has learned to use react and deployed the mini daily expense tracker app on Heroku. Kathryn is exceptional in making UI designs though I was not able to implement it fully in this short period.
 
 We want to spend more time combining the UI design with the functionality of the web app. We would also like to build Rain into a completely responsive web app.
