@@ -25,6 +25,16 @@ https://www.canva.com/design/DAEb_Yp7xCc/ACKhadoVAWT4DkBa4QIRIQ/view?website#1:h
 * History to keep track of your transaction
 * You can remove a transaction from history
 
-## Conclusion
+## Our Story
 
-There are a lot of limitations in this app, the biggest is not having a database. So it is discouraged to close the tab.
+We were inspired to make Rain because existing budgeting apps do not allow flexibility of budgeting or an alert when a budget is close to being exceeded. 
+
+Rain allows users to add multiple budgets per month and assign them to different purposes. Users can set an alert for each budget within a set time frame of their choice to prevent them from going over budget.
+
+We initially brainstormed ideas via the discord chat, researched other budget apps, created wireframes, then a Figma Prototype. We experimented with using Anima to export the code for the interactive Figma prototype but did not have time to combine this with altered javascript code. Neither of us had experience adapting exported Figma code and developing it into a fully functional web app. Though we learned a lot trying, we decided to create a version of the app with a simplified UI.
+
+We had a lot of fun and pushed ourselves and our skills to learn more.
+
+Kathryn successfully used Anima to export a Figma UI design for the first time for handoff to a dev, gained experience working with Soren, and enjoyed participating in her first hackathon!
+
+We want to spend more time combining the UI design with the functionality of the web app. We would also like to build Rain into a completely responsive web app.
