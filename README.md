@@ -5,6 +5,8 @@ Basic Expense Maintainer
 We buy a lot of stuffs, consume different types of services on day to day basis. So how about we try to monitor our daily expenses? That would be healthy way to save money. So we present you this basic tool we have designed that can monitor your budget on day to day basis.
 
 ## Tools
+* HTML5
+* CSS
 * React.js
 * Material-ui
 * Node.js
