@@ -38,7 +38,7 @@ export const AddTransaction = () => {
         <table>
         <tr>
             <th><Checkbox color="secondary" value="inc" onChange={(v) => getValue(v)} /></th>
-            <th>CHECK THE BOX TO ADD MONEY</th>
+            <th>EXPENSE TRANSACTION</th>
           </tr>
         </table>
         
